@@ -350,7 +350,7 @@ class Server
                             ctx.Response.ContentType = "application/json";
                             ctx.Response.ContentLength64 = response.Length;
                             Console.WriteLine(browserOs);
-                            Console.WriteLine($"[REQUEST]: [{ctx.Request.HttpMethod}] - [{ctx.Request.Url}] - \u001b[31m[RESPONSE]:\u001b[0m \u001b[32m[{ctx.Response.StatusCode}]");
+                            Console.WriteLine($"[REQUEST]: [{ctx.Request.HttpMethod}] - [{ctx.Request.Url}] - [RESPONSE]: [{ctx.Response.StatusCode}]");
                             //Console.WriteLine($"[PAYLOAD]: \n {body}");
                             logger.WriteLog("NAVEGADOR: " + browserOs);
                             logger.WriteLog($"DETALLE:[{ctx.Request.HttpMethod}] - [{ctx.Request.Url}] - [RESPONSE]:[{ctx.Response.StatusCode}]");
