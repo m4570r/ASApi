@@ -1,0 +1,5 @@
+C:\Users\V&V Solutions\source\repos\api2\api2\obj\Debug\net6.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\V&V Solutions\source\repos\api2\api2\obj\Debug\net6.0\win-x64\PubTmp\Out\appsettings.json
+C:\Users\V&V Solutions\source\repos\api2\api2\obj\Debug\net6.0\win-x64\PubTmp\Out\api2.pdb
+C:\Users\V&V Solutions\source\repos\api2\api2\obj\Debug\net6.0\win-x64\PubTmp\Out\aspnetcorev2_inprocess.dll
+C:\Users\V&V Solutions\source\repos\api2\api2\obj\Debug\net6.0\win-x64\PubTmp\Out\api2.exe

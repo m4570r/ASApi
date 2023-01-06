@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\python\AsApi</_PublishTargetUrl>
+    <History>True|2023-01-06T03:45:17.7872773Z;True|2023-01-06T00:43:09.6807454-03:00;True|2023-01-06T00:38:50.4134636-03:00;False|2023-01-06T00:38:27.8089540-03:00;True|2023-01-06T00:33:39.1908707-03:00;True|2023-01-05T18:27:03.3883891-03:00;False|2023-01-05T18:25:26.9644604-03:00;True|2023-01-05T18:04:46.4592884-03:00;True|2023-01-05T18:03:27.5481671-03:00;True|2023-01-05T18:02:03.8218282-03:00;True|2023-01-05T18:00:55.9781678-03:00;True|2023-01-05T17:58:20.5261540-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
